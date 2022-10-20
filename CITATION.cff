@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this data and code please cite it as below."
+
+title: "Data and Code for Barrett et al. Habitual stone-tool-aided extractive foraging in white-faced capuchins, Cebus capucinus"
+version: 1.0.0
+date-released: 2018-08-02
+url: "https://github.com/bjbarrett/CoibaCebusTool1"
+authors:
+- family-names: "Barrett"
+  given-names: "Brendan J"
+  orcid: "https://orcid.org/0000-0002-2725-2385"
